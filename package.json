@@ -1,0 +1,12 @@
+{
+  "name": "milon-ai-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure backend gateway for MILON AI",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
